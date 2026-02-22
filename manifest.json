@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "trips": [
+    {
+      "id": "gOhOo2srk",
+      "title": "Easy Peasy",
+      "description": "An easy set of vanity plates to get you started.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": true
+    },
+    {
+      "id": "nLp4BtS8Z",
+      "title": "Chow Time",
+      "description": "Vanity plates for things you'd eat.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "MnPqJVIP8",
+      "title": "Animals",
+      "description": "Can you guess these animals vanity plates?",
+      "puzzleCnt": 9,
+      "price": 1.99,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "qNCq1x-sg",
+      "title": "Farm Animals",
+      "description": "Can you guess the vanity plates for these animals you'd find on a farm?",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "xuCv55qaa",
+      "title": "Beach Trip",
+      "description": "Guess the vanity plates for these things you'd see on a day at the beach.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "axJSJFkuY",
+      "title": "Creepy Crawly",
+      "description": "Vanity plates for things that creep and crawl.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "Yc3eD5h7G",
+      "title": "Fairy Tales",
+      "description": "Vanity Plates for stuff you'd find in fairy tales.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "qJT_ZOzEz",
+      "title": "Scary Stuff",
+      "description": "Guess the vanity plates for these things that will have you shaking in your boots.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "SwhYIEP9s",
+      "title": "Jobs",
+      "description": "Guess the vanity plates for these jobs.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "JzfMBhy2n",
+      "title": "Historical Figures",
+      "description": "Guess the vanity plates for these people from the past.",
+      "puzzleCnt": 9,
+      "price": 1.99,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "35h-JxGwI",
+      "title": "80s Hits",
+      "description": "Take a trip back in time while you try to unscramble these song titles and lyrics from the 80s.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    },
+    {
+      "id": "APIRsUMPe",
+      "title": "80s Movies",
+      "description": "Remember the movies before streaming?  Back when the only thing bigger than the action was the hair.  Well, if those movies had their own cars these plates would have been on their bumpers.",
+      "puzzleCnt": 9,
+      "price": 0,
+      "paid": false,
+      "unlocked": false
+    }
+  ]
+}
