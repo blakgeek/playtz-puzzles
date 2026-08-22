@@ -2,108 +2,10 @@
   "epoch": "2026-08-22",
   "puzzles": [
     {
-      "id": "C9xeIDL_DcF",
-      "solution": "JAWSOME",
-      "hint": "A Shark",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/D2UjUBjMkG.svg",
-      "color": null
-    },
-    {
-      "id": "TIiHFFplsMh",
-      "solution": "2 THE MOON",
-      "hint": "A Cow Sailing Over A Crescent",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/mJ9WL7rygq.svg",
-      "color": null
-    },
-    {
-      "id": "gy56SpqeZoQ",
-      "solution": "KISS ME",
-      "hint": "A Frog Wearing A Crown",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/PU-tHwbvs.svg",
-      "color": null
-    },
-    {
-      "id": "hZl6SQb_Ac8",
-      "solution": "UNBEARABL",
-      "hint": "A Bear",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/ddd-aPrFDQ.svg",
-      "color": null
-    },
-    {
-      "id": "Bz8-Qr1GrpQ",
-      "solution": "PURR FECT",
-      "hint": "A Cat Wearing Tall Boots",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/CsOAk6Wu4w.svg",
-      "color": null
-    },
-    {
-      "id": "JbdIaJkFoZw",
-      "solution": "MANE EVENT",
-      "hint": "A Lion",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/VI83TdxrtI.svg",
-      "color": null
-    },
-    {
-      "id": "Xj1rlfQPe3R",
-      "solution": "FANGS ALOT",
-      "hint": "A Vampire",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/7hTqo550Q8.svg",
-      "color": "undefined"
-    },
-    {
-      "id": "iHKzwt8lsEM",
-      "solution": "QUACK UP",
-      "hint": "A Duck",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/tNxTqvuDT.svg",
-      "color": null
-    },
-    {
-      "id": "piY_u3hIEQ4",
-      "solution": "GO BANANAS",
-      "hint": "A Monkey",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/u15LQurzk5.svg",
-      "color": null
-    },
-    {
-      "id": "U4HSshu0rfh",
-      "solution": "THE WURST",
-      "hint": "A Hot Dog In A Bun",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/ORZRGStn3.svg",
-      "color": null
-    },
-    {
-      "id": "cbZSTCtnFi7",
-      "solution": "SLO MO",
-      "hint": "A Sloth",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/16VkLKBUcQ.svg",
-      "color": null
-    },
-    {
       "id": "tXVeU4ubx",
       "solution": "I LITIG8",
       "hint": "Attorney",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/7XnCTDOF-n.svg",
-      "color": null
-    },
-    {
-      "id": "gcjHMd8doid",
-      "solution": "HOWL R U",
-      "hint": "A Werewolf",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/nwFikb_P_.svg",
-      "color": null
-    },
-    {
-      "id": "d3lpJok7Nne",
-      "solution": "PAWSOME",
-      "hint": "A Dog",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/KxYw0SyuBz.svg",
-      "color": null
-    },
-    {
-      "id": "YMLhSSz_TwT",
-      "solution": "BLAST OFF",
-      "hint": "A Rocket Ship",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/DsKVZF1pN.svg",
       "color": null
     },
     {
@@ -112,20 +14,6 @@
       "hint": "I'm A Jellyfish",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/5C9hiKoJJ9.svg",
       "color": null
-    },
-    {
-      "id": "opRLssKIxuD",
-      "solution": "BAMBOOZLD",
-      "hint": "A Panda",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/fWECLgFNlZ2.svg",
-      "color": null
-    },
-    {
-      "id": "oRX_YduZ4j4",
-      "solution": "SQUASH IT",
-      "hint": "A Pumpkin",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/5L_LnbsH8e.svg",
-      "color": "#FFE3B1"
     },
     {
       "id": "sBNDJV2Rq",
@@ -205,13 +93,6 @@
       "color": null
     },
     {
-      "id": "rW0OLHOeee",
-      "solution": "SLO N STDY",
-      "hint": "A Turtle",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/pX2nEC5s84.svg",
-      "color": null
-    },
-    {
       "id": "KLpiGcccv",
       "solution": "PHO SHO",
       "hint": "Phở",
@@ -238,13 +119,6 @@
       "hint": "Steve Jobs",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/QoSbgVcIbc.jpg",
       "color": "#100c2a"
-    },
-    {
-      "id": "3Ormhgucbq",
-      "solution": "UCANTCME",
-      "hint": "A Stick Insect",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/RA3SeGqsb7S.svg",
-      "color": null
     },
     {
       "id": "3US5V97zT",
@@ -296,13 +170,6 @@
       "color": null
     },
     {
-      "id": "fb3pqPfYlJZ",
-      "solution": "HANG 10",
-      "hint": "A Surfboard",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/0CR5vm9R9t.svg",
-      "color": null
-    },
-    {
       "id": "OpbfUsTTA",
       "solution": "WITCHWAY",
       "hint": "Witch",
@@ -324,13 +191,6 @@
       "color": null
     },
     {
-      "id": "uQvsAKbj3iw",
-      "solution": "TYM 4 TEA",
-      "hint": "London's Clock Tower",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/b0DB7Ky89Q.svg",
-      "color": null
-    },
-    {
       "id": "GaXf413L4",
       "solution": "SOOSHEE",
       "hint": "Japanese Food",
@@ -343,13 +203,6 @@
       "hint": "I'm Rosa Parks and I wouldn't sit here.",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/4uz1L82pK.jpg",
       "color": "#000000"
-    },
-    {
-      "id": "LHT8_X0faQ",
-      "solution": "IM W8N",
-      "hint": "A Vulture",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/rJs9vQcVvI.svg",
-      "color": null
     },
     {
       "id": "IyFAklrvl",
@@ -408,25 +261,11 @@
       "color": null
     },
     {
-      "id": "3KF7QRpUgfH",
-      "solution": "ALLSMILEZ",
-      "hint": "The Cheshire Cat",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/40J8FCHVAM.svg",
-      "color": "#F2B3CD"
-    },
-    {
       "id": "RemWVYvsQ",
       "solution": "FRANKY",
       "hint": "Frankenstein's Monster",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/UwkOo-jr9u.svg",
       "color": null
-    },
-    {
-      "id": "EL-XYAcqiy",
-      "solution": "AW SHUCKS",
-      "hint": "An Ear Of Corn",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/auVmj20M-t.svg",
-      "color": "#FFE3B1"
     },
     {
       "id": "fqmM9GTu0",
@@ -448,20 +287,6 @@
       "hint": "Beastie Boys Hit From The 80s",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/mO-Zme0lD.svg",
       "color": null
-    },
-    {
-      "id": "Kq3CNMSBXn5",
-      "solution": "TANK U",
-      "hint": "A Diver's Air Cylinder",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/p8q84xVSSL.svg",
-      "color": null
-    },
-    {
-      "id": "YELRFoZwGBP",
-      "solution": "24 KARROT",
-      "hint": "A Slice Of Carrot Cake",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/BiPvyeOCfl.svg",
-      "color": "#B5D6EE"
     },
     {
       "id": "eD-ME3lib",
@@ -499,13 +324,6 @@
       "color": null
     },
     {
-      "id": "pPEs42nj86L",
-      "solution": "LAB RAT",
-      "hint": "A Scientist",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/4aHJYLoIP6.svg",
-      "color": null
-    },
-    {
       "id": "_AzZIauhy",
       "solution": "BIGBONED",
       "hint": "Dinosaur Bones",
@@ -517,13 +335,6 @@
       "solution": "LETZSNORKL",
       "hint": "Snorkle",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/-kVLRR5elq.svg",
-      "color": null
-    },
-    {
-      "id": "gkP9zSNfPE",
-      "solution": "NO H2O",
-      "hint": "A Camel",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/3K8mt93WAD.svg",
       "color": null
     },
     {
@@ -548,20 +359,6 @@
       "color": null
     },
     {
-      "id": "jP6S4ZPamb",
-      "solution": "MOBILHOME",
-      "hint": "A Hermit Crab",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/-_Lt8n24oT.svg",
-      "color": null
-    },
-    {
-      "id": "n55wWKE3T8-",
-      "solution": "MAD 4 T",
-      "hint": "A Very Odd Top Hat",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/lKpw5C96gn.svg",
-      "color": null
-    },
-    {
       "id": "2a-_yQP6O",
       "solution": "LADYJUSTIS",
       "hint": "Lady Justice",
@@ -574,13 +371,6 @@
       "hint": "French Fries",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/ILBBLSX9Pj.svg",
       "color": null
-    },
-    {
-      "id": "RhVc7TvRNov",
-      "solution": "BRAINZ",
-      "hint": "A Zombie",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/0DzPrSl1K6.svg",
-      "color": "undefined"
     },
     {
       "id": "fXIUqaSjF",
@@ -632,13 +422,6 @@
       "color": null
     },
     {
-      "id": "IDrQyRE-Vh8",
-      "solution": "LOST SHEEP",
-      "hint": "Little Bo Peep",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/NzpHfoO18.svg",
-      "color": null
-    },
-    {
       "id": "jkRZqG2PAub",
       "solution": "IFUL TWR",
       "hint": "Paris",
@@ -660,20 +443,6 @@
       "color": "#9FE4FF"
     },
     {
-      "id": "0E9LHNAjjH0",
-      "solution": "1 BAD BYTE",
-      "hint": "A Poison Apple",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/Nv0gJvNfpu.svg",
-      "color": null
-    },
-    {
-      "id": "Xn0nynB-A5_",
-      "solution": "OFFURHED",
-      "hint": "The Red Queen",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/wenkgEIZa.svg",
-      "color": "undefined"
-    },
-    {
       "id": "cY7p1MDDP",
       "solution": "PYD PYPR",
       "hint": "Pied Piper",
@@ -692,20 +461,6 @@
       "solution": "PINMEUP",
       "hint": "Pin Up Girl",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/g7pGzmbLrGm.svg",
-      "color": null
-    },
-    {
-      "id": "DGKbDgXxbN",
-      "solution": "8 ARMZ",
-      "hint": "An Octopus",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/HEu5nAtLQWz.svg",
-      "color": null
-    },
-    {
-      "id": "4AsuYwoFou",
-      "solution": "I LURE U",
-      "hint": "An Anglerfish",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/yaG4TGybro.svg",
       "color": null
     },
     {
@@ -737,31 +492,10 @@
       "color": null
     },
     {
-      "id": "GgExHUtKKxf",
-      "solution": "BERRY GUD",
-      "hint": "A Strawberry",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/vfK4nvSm7X.svg",
-      "color": null
-    },
-    {
-      "id": "2TwM3Wdp-q",
-      "solution": "IWAZAWORM",
-      "hint": "A Butterfly",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/JToo_VtrK8.svg",
-      "color": null
-    },
-    {
       "id": "CoYSnCVMK",
       "solution": "PULL OVR",
       "hint": "Police Officer",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/XZaJV6SwRxU.svg",
-      "color": null
-    },
-    {
-      "id": "_qrkjU5ZgpR",
-      "solution": "WRAP STAR",
-      "hint": "A Mummy",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/wLUf86-UYa.svg",
       "color": null
     },
     {
@@ -793,13 +527,6 @@
       "color": null
     },
     {
-      "id": "ttQQG_oE9",
-      "solution": "TUSK TUSK",
-      "hint": "A Walrus",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/preZ6_fh-C.svg",
-      "color": null
-    },
-    {
       "id": "fc2jMGMlD",
       "solution": "INAPINCH",
       "hint": "I'm A Crab",
@@ -821,25 +548,11 @@
       "color": "#6784BE"
     },
     {
-      "id": "hOPYJkcFJvq",
-      "solution": "USE DA 4CE",
-      "hint": "Yoda",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/hwXAe_vIAen.svg",
-      "color": null
-    },
-    {
       "id": "eaY4tZ9xj",
       "solution": "WO NELLY",
       "hint": "Horse",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/XF0W_oMNwm.svg",
       "color": null
-    },
-    {
-      "id": "Kuq94_c-FM",
-      "solution": "HOLE N 1",
-      "hint": "A Donut",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/oz55ymsSgI.svg",
-      "color": "#F7941D"
     },
     {
       "id": "7eTzjxCNo",
@@ -856,31 +569,10 @@
       "color": null
     },
     {
-      "id": "_O-sE47X-k",
-      "solution": "TRASHPANDA",
-      "hint": "A Raccoon",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/hdsPH0GxQbo.svg",
-      "color": null
-    },
-    {
-      "id": "h8htEGx1OK_",
-      "solution": "BUKLE UP",
-      "hint": "A Pilgrim Hat",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/3pjAk0qbzX.svg",
-      "color": "#FFE3B1"
-    },
-    {
       "id": "BOXqvFNGZ",
       "solution": "LOOSYGOOSY",
       "hint": "Goose",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/er-3L4--NSC.svg",
-      "color": null
-    },
-    {
-      "id": "uYtFZf1QLL",
-      "solution": "HU R U",
-      "hint": "An Owl",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/2CXlZD6oyS.svg",
       "color": null
     },
     {
@@ -905,13 +597,6 @@
       "color": "undefined"
     },
     {
-      "id": "HL2AzPRSmd_",
-      "solution": "ITSALIVE",
-      "hint": "Frankenstein's Monster",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/WlxwUi3c_8.svg",
-      "color": "undefined"
-    },
-    {
       "id": "l0ahnKzXU",
       "solution": "HAUNTED1",
       "hint": "Ghost",
@@ -924,13 +609,6 @@
       "hint": "Sailboat",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/8atHKNHUat.svg",
       "color": "#FFE461"
-    },
-    {
-      "id": "MetZ6TaJkQS",
-      "solution": "MY PRESHUS",
-      "hint": "Gollum",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/rHisSjGN3.svg",
-      "color": "#FE9900"
     },
     {
       "id": "whO0spiAf",
@@ -954,13 +632,6 @@
       "color": null
     },
     {
-      "id": "wzMnKAHXvs",
-      "solution": "BUZY BEE",
-      "hint": "A Honeybee",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/PeeveKVOxIC.svg",
-      "color": null
-    },
-    {
       "id": "-QV1EJwW6",
       "solution": "FEATHERD",
       "hint": "Bird",
@@ -979,20 +650,6 @@
       "solution": "GOBLGOBL",
       "hint": "A Turkey",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/JdZ8clkq2f.svg",
-      "color": null
-    },
-    {
-      "id": "9bMv0EdQHI4",
-      "solution": "CANTKACHME",
-      "hint": "The Gingerbread Man",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/oUgVrDbKFj.svg",
-      "color": null
-    },
-    {
-      "id": "s7jLB47JQ8",
-      "solution": "UDDRLYGR8",
-      "hint": "A Cow",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/EQSXss5B-z.svg",
       "color": null
     },
     {
@@ -1087,13 +744,6 @@
       "color": null
     },
     {
-      "id": "SCKjKGFOKgI",
-      "solution": "I CANT AIM",
-      "hint": "A Stormtrooper",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/5eV8uX2FQA.svg",
-      "color": "#2EBDFF"
-    },
-    {
       "id": "W-A3W2ZCL",
       "solution": "SK8ORDIE",
       "hint": "Skateboarder",
@@ -1113,13 +763,6 @@
       "hint": "Watermelon",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/d8xqdGiHy.svg",
       "color": null
-    },
-    {
-      "id": "RWgWIeLYB_h",
-      "solution": "6 MOR WKS",
-      "hint": "A Groundhog",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/5wgw_Qz8y.svg",
-      "color": "#FFB30F"
     },
     {
       "id": "Bz8BKR9T0",
@@ -1143,18 +786,466 @@
       "color": null
     },
     {
-      "id": "wickKHMZ-7",
-      "solution": "NEIGH BOR",
-      "hint": "A Horse",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/Fa9uKDcHHxK.svg",
-      "color": null
-    },
-    {
       "id": "7xvBapxdu",
       "solution": "W8LIFTR",
       "hint": "Body Builder",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/twP_yfP1kB.svg",
       "color": "#E6E7E8"
+    },
+    {
+      "id": "4V6mGOYdW",
+      "solution": "DLITIG8R",
+      "hint": "Attorney",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/7XnCTDOF-n.svg",
+      "color": null
+    },
+    {
+      "id": "WDsf88yQR",
+      "solution": "JELEFISH",
+      "hint": "I'm A Jellyfish",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/5C9hiKoJJ9.svg",
+      "color": null
+    },
+    {
+      "id": "5alpmioi1",
+      "solution": "EATN BAMBU",
+      "hint": "A Panda",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/HyY9YzeIWK.svg",
+      "color": null
+    },
+    {
+      "id": "q8BgnTpGN",
+      "solution": "2CURIUS",
+      "hint": "Alice In Wonderland",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/mfLAzT55xPj.svg",
+      "color": null
+    },
+    {
+      "id": "gKChX6ifa",
+      "solution": "IFYT4RYTZ",
+      "hint": "Martin Luther King",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/mvxp5VzT_.svg",
+      "color": null
+    },
+    {
+      "id": "XIC8BLe2Q",
+      "solution": "IFREEDEM",
+      "hint": "Abraham Lincoln",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/AfRzHMmPZPX.svg",
+      "color": null
+    },
+    {
+      "id": "T-aWH3qJ-",
+      "solution": "LADYLIFTR",
+      "hint": "Bodybuilder",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/V6guC6xg1.svg",
+      "color": null
+    },
+    {
+      "id": "UdIUIzsRg",
+      "solution": "OVRDMOON",
+      "hint": "Hey Diddle Diddle",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/porUHFUif_.jpg",
+      "color": null
+    },
+    {
+      "id": "SokAeSUgG",
+      "solution": "ITSMWERL",
+      "hint": "I'm Elmo",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/e-0XrqiSU.svg",
+      "color": null
+    },
+    {
+      "id": "C8hONjS1v",
+      "solution": "MZ PCOCK",
+      "hint": "A Peacock",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/cHW5sQUZ0T.svg",
+      "color": null
+    },
+    {
+      "id": "5ShRIHxUc",
+      "solution": "LUKNGUD",
+      "hint": "Trading Places Quote",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/oXu4B83_x.svg",
+      "color": null
+    },
+    {
+      "id": "eU59x82eB",
+      "solution": "LITIG8R",
+      "hint": "Attorney",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/7XnCTDOF-n.svg",
+      "color": null
+    },
+    {
+      "id": "yyul-n8QT",
+      "solution": "JELEFISH",
+      "hint": "I'm A Jellyfish",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/5C9hiKoJJ9.svg",
+      "color": null
+    },
+    {
+      "id": "C9xeIDL_DcF",
+      "solution": "JAWSOME",
+      "hint": "A Shark",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/D2UjUBjMkG.svg",
+      "color": null
+    },
+    {
+      "id": "TIiHFFplsMh",
+      "solution": "2 THE MOON",
+      "hint": "A Cow Sailing Over A Crescent",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/mJ9WL7rygq.svg",
+      "color": null
+    },
+    {
+      "id": "gy56SpqeZoQ",
+      "solution": "KISS ME",
+      "hint": "A Frog Wearing A Crown",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/PU-tHwbvs.svg",
+      "color": null
+    },
+    {
+      "id": "hZl6SQb_Ac8",
+      "solution": "UNBEARABL",
+      "hint": "A Bear",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/ddd-aPrFDQ.svg",
+      "color": null
+    },
+    {
+      "id": "Bz8-Qr1GrpQ",
+      "solution": "PURR FECT",
+      "hint": "A Cat Wearing Tall Boots",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/CsOAk6Wu4w.svg",
+      "color": null
+    },
+    {
+      "id": "JbdIaJkFoZw",
+      "solution": "MANE EVENT",
+      "hint": "A Lion",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/VI83TdxrtI.svg",
+      "color": null
+    },
+    {
+      "id": "Xj1rlfQPe3R",
+      "solution": "FANGS ALOT",
+      "hint": "A Vampire",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/7hTqo550Q8.svg",
+      "color": "undefined"
+    },
+    {
+      "id": "iHKzwt8lsEM",
+      "solution": "QUACK UP",
+      "hint": "A Duck",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/tNxTqvuDT.svg",
+      "color": null
+    },
+    {
+      "id": "piY_u3hIEQ4",
+      "solution": "GO BANANAS",
+      "hint": "A Monkey",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/u15LQurzk5.svg",
+      "color": null
+    },
+    {
+      "id": "U4HSshu0rfh",
+      "solution": "THE WURST",
+      "hint": "A Hot Dog In A Bun",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/ORZRGStn3.svg",
+      "color": null
+    },
+    {
+      "id": "cbZSTCtnFi7",
+      "solution": "SLO MO",
+      "hint": "A Sloth",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/16VkLKBUcQ.svg",
+      "color": null
+    },
+    {
+      "id": "gcjHMd8doid",
+      "solution": "HOWL R U",
+      "hint": "A Werewolf",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/nwFikb_P_.svg",
+      "color": null
+    },
+    {
+      "id": "d3lpJok7Nne",
+      "solution": "PAWSOME",
+      "hint": "A Dog",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/KxYw0SyuBz.svg",
+      "color": null
+    },
+    {
+      "id": "YMLhSSz_TwT",
+      "solution": "BLAST OFF",
+      "hint": "A Rocket Ship",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/DsKVZF1pN.svg",
+      "color": null
+    },
+    {
+      "id": "opRLssKIxuD",
+      "solution": "BAMBOOZLD",
+      "hint": "A Panda",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/fWECLgFNlZ2.svg",
+      "color": null
+    },
+    {
+      "id": "oRX_YduZ4j4",
+      "solution": "SQUASH IT",
+      "hint": "A Pumpkin",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/5L_LnbsH8e.svg",
+      "color": "#FFE3B1"
+    },
+    {
+      "id": "rW0OLHOeee",
+      "solution": "SLO N STDY",
+      "hint": "A Turtle",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/pX2nEC5s84.svg",
+      "color": null
+    },
+    {
+      "id": "3Ormhgucbq",
+      "solution": "UCANTCME",
+      "hint": "A Stick Insect",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/RA3SeGqsb7S.svg",
+      "color": null
+    },
+    {
+      "id": "fb3pqPfYlJZ",
+      "solution": "HANG 10",
+      "hint": "A Surfboard",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/0CR5vm9R9t.svg",
+      "color": null
+    },
+    {
+      "id": "uQvsAKbj3iw",
+      "solution": "TYM 4 TEA",
+      "hint": "London's Clock Tower",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/b0DB7Ky89Q.svg",
+      "color": null
+    },
+    {
+      "id": "LHT8_X0faQ",
+      "solution": "IM W8N",
+      "hint": "A Vulture",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/rJs9vQcVvI.svg",
+      "color": null
+    },
+    {
+      "id": "3KF7QRpUgfH",
+      "solution": "ALLSMILEZ",
+      "hint": "The Cheshire Cat",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/40J8FCHVAM.svg",
+      "color": "#F2B3CD"
+    },
+    {
+      "id": "EL-XYAcqiy",
+      "solution": "AW SHUCKS",
+      "hint": "An Ear Of Corn",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/auVmj20M-t.svg",
+      "color": "#FFE3B1"
+    },
+    {
+      "id": "Kq3CNMSBXn5",
+      "solution": "TANK U",
+      "hint": "A Diver's Air Cylinder",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/p8q84xVSSL.svg",
+      "color": null
+    },
+    {
+      "id": "YELRFoZwGBP",
+      "solution": "24 KARROT",
+      "hint": "A Slice Of Carrot Cake",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/BiPvyeOCfl.svg",
+      "color": "#B5D6EE"
+    },
+    {
+      "id": "pPEs42nj86L",
+      "solution": "LAB RAT",
+      "hint": "A Scientist",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/4aHJYLoIP6.svg",
+      "color": null
+    },
+    {
+      "id": "gkP9zSNfPE",
+      "solution": "NO H2O",
+      "hint": "A Camel",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/3K8mt93WAD.svg",
+      "color": null
+    },
+    {
+      "id": "jP6S4ZPamb",
+      "solution": "MOBILHOME",
+      "hint": "A Hermit Crab",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/-_Lt8n24oT.svg",
+      "color": null
+    },
+    {
+      "id": "n55wWKE3T8-",
+      "solution": "MAD 4 T",
+      "hint": "A Very Odd Top Hat",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/lKpw5C96gn.svg",
+      "color": null
+    },
+    {
+      "id": "RhVc7TvRNov",
+      "solution": "BRAINZ",
+      "hint": "A Zombie",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/0DzPrSl1K6.svg",
+      "color": "undefined"
+    },
+    {
+      "id": "IDrQyRE-Vh8",
+      "solution": "LOST SHEEP",
+      "hint": "Little Bo Peep",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/NzpHfoO18.svg",
+      "color": null
+    },
+    {
+      "id": "0E9LHNAjjH0",
+      "solution": "1 BAD BYTE",
+      "hint": "A Poison Apple",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/Nv0gJvNfpu.svg",
+      "color": null
+    },
+    {
+      "id": "Xn0nynB-A5_",
+      "solution": "OFFURHED",
+      "hint": "The Red Queen",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/wenkgEIZa.svg",
+      "color": "undefined"
+    },
+    {
+      "id": "DGKbDgXxbN",
+      "solution": "8 ARMZ",
+      "hint": "An Octopus",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/HEu5nAtLQWz.svg",
+      "color": null
+    },
+    {
+      "id": "4AsuYwoFou",
+      "solution": "I LURE U",
+      "hint": "An Anglerfish",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/yaG4TGybro.svg",
+      "color": null
+    },
+    {
+      "id": "GgExHUtKKxf",
+      "solution": "BERRY GUD",
+      "hint": "A Strawberry",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/vfK4nvSm7X.svg",
+      "color": null
+    },
+    {
+      "id": "2TwM3Wdp-q",
+      "solution": "IWAZAWORM",
+      "hint": "A Butterfly",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/JToo_VtrK8.svg",
+      "color": null
+    },
+    {
+      "id": "_qrkjU5ZgpR",
+      "solution": "WRAP STAR",
+      "hint": "A Mummy",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/wLUf86-UYa.svg",
+      "color": null
+    },
+    {
+      "id": "ttQQG_oE9",
+      "solution": "TUSK TUSK",
+      "hint": "A Walrus",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/preZ6_fh-C.svg",
+      "color": null
+    },
+    {
+      "id": "hOPYJkcFJvq",
+      "solution": "USE DA 4CE",
+      "hint": "Yoda",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/hwXAe_vIAen.svg",
+      "color": null
+    },
+    {
+      "id": "Kuq94_c-FM",
+      "solution": "HOLE N 1",
+      "hint": "A Donut",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/oz55ymsSgI.svg",
+      "color": "#F7941D"
+    },
+    {
+      "id": "_O-sE47X-k",
+      "solution": "TRASHPANDA",
+      "hint": "A Raccoon",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/hdsPH0GxQbo.svg",
+      "color": null
+    },
+    {
+      "id": "h8htEGx1OK_",
+      "solution": "BUKLE UP",
+      "hint": "A Pilgrim Hat",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/3pjAk0qbzX.svg",
+      "color": "#FFE3B1"
+    },
+    {
+      "id": "uYtFZf1QLL",
+      "solution": "HU R U",
+      "hint": "An Owl",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/2CXlZD6oyS.svg",
+      "color": null
+    },
+    {
+      "id": "HL2AzPRSmd_",
+      "solution": "ITSALIVE",
+      "hint": "Frankenstein's Monster",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/WlxwUi3c_8.svg",
+      "color": "undefined"
+    },
+    {
+      "id": "MetZ6TaJkQS",
+      "solution": "MY PRESHUS",
+      "hint": "Gollum",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/rHisSjGN3.svg",
+      "color": "#FE9900"
+    },
+    {
+      "id": "wzMnKAHXvs",
+      "solution": "BUZY BEE",
+      "hint": "A Honeybee",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/PeeveKVOxIC.svg",
+      "color": null
+    },
+    {
+      "id": "9bMv0EdQHI4",
+      "solution": "CANTKACHME",
+      "hint": "The Gingerbread Man",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/oUgVrDbKFj.svg",
+      "color": null
+    },
+    {
+      "id": "s7jLB47JQ8",
+      "solution": "UDDRLYGR8",
+      "hint": "A Cow",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/EQSXss5B-z.svg",
+      "color": null
+    },
+    {
+      "id": "SCKjKGFOKgI",
+      "solution": "I CANT AIM",
+      "hint": "A Stormtrooper",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/5eV8uX2FQA.svg",
+      "color": "#2EBDFF"
+    },
+    {
+      "id": "RWgWIeLYB_h",
+      "solution": "6 MOR WKS",
+      "hint": "A Groundhog",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/5wgw_Qz8y.svg",
+      "color": "#FFB30F"
+    },
+    {
+      "id": "wickKHMZ-7",
+      "solution": "NEIGH BOR",
+      "hint": "A Horse",
+      "image": "https://blakgeek.github.io/playtz-puzzles/images/Fa9uKDcHHxK.svg",
+      "color": null
     },
     {
       "id": "T7DCYcT2wsv",
@@ -1234,13 +1325,6 @@
       "color": null
     },
     {
-      "id": "4V6mGOYdW",
-      "solution": "DLITIG8R",
-      "hint": "Attorney",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/7XnCTDOF-n.svg",
-      "color": null
-    },
-    {
       "id": "bRYB9KaDXUY",
       "solution": "FUR REAL",
       "hint": "A Werewolf",
@@ -1262,13 +1346,6 @@
       "color": null
     },
     {
-      "id": "WDsf88yQR",
-      "solution": "JELEFISH",
-      "hint": "I'm A Jellyfish",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/5C9hiKoJJ9.svg",
-      "color": null
-    },
-    {
       "id": "OzoJuRwk4no",
       "solution": "EAT SHOOTS",
       "hint": "A Panda",
@@ -1281,69 +1358,6 @@
       "hint": "A Pumpkin",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/5L_LnbsH8e.svg",
       "color": "#FFE3B1"
-    },
-    {
-      "id": "5alpmioi1",
-      "solution": "EATN BAMBU",
-      "hint": "A Panda",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/HyY9YzeIWK.svg",
-      "color": null
-    },
-    {
-      "id": "q8BgnTpGN",
-      "solution": "2CURIUS",
-      "hint": "Alice In Wonderland",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/mfLAzT55xPj.svg",
-      "color": null
-    },
-    {
-      "id": "gKChX6ifa",
-      "solution": "IFYT4RYTZ",
-      "hint": "Martin Luther King",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/mvxp5VzT_.svg",
-      "color": null
-    },
-    {
-      "id": "XIC8BLe2Q",
-      "solution": "IFREEDEM",
-      "hint": "Abraham Lincoln",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/AfRzHMmPZPX.svg",
-      "color": null
-    },
-    {
-      "id": "T-aWH3qJ-",
-      "solution": "LADYLIFTR",
-      "hint": "Bodybuilder",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/V6guC6xg1.svg",
-      "color": null
-    },
-    {
-      "id": "UdIUIzsRg",
-      "solution": "OVRDMOON",
-      "hint": "Hey Diddle Diddle",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/porUHFUif_.jpg",
-      "color": null
-    },
-    {
-      "id": "SokAeSUgG",
-      "solution": "ITSMWERL",
-      "hint": "I'm Elmo",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/e-0XrqiSU.svg",
-      "color": null
-    },
-    {
-      "id": "C8hONjS1v",
-      "solution": "MZ PCOCK",
-      "hint": "A Peacock",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/cHW5sQUZ0T.svg",
-      "color": null
-    },
-    {
-      "id": "5ShRIHxUc",
-      "solution": "LUKNGUD",
-      "hint": "Trading Places Quote",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/oXu4B83_x.svg",
-      "color": null
     },
     {
       "id": "h05faNHKjJh",
@@ -1423,13 +1437,6 @@
       "color": null
     },
     {
-      "id": "eU59x82eB",
-      "solution": "LITIG8R",
-      "hint": "Attorney",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/7XnCTDOF-n.svg",
-      "color": null
-    },
-    {
       "id": "0t53Om1bLF8",
       "solution": "FUR OCIOUS",
       "hint": "A Werewolf",
@@ -1448,13 +1455,6 @@
       "solution": "UP N AWAY",
       "hint": "A Rocket Ship",
       "image": "https://blakgeek.github.io/playtz-puzzles/images/DsKVZF1pN.svg",
-      "color": null
-    },
-    {
-      "id": "yyul-n8QT",
-      "solution": "JELEFISH",
-      "hint": "I'm A Jellyfish",
-      "image": "https://blakgeek.github.io/playtz-puzzles/images/5C9hiKoJJ9.svg",
       "color": null
     },
     {
